@@ -7,8 +7,8 @@ import (
 	"net/http"
 
 	"github.com/go-chi/chi"
-	"github.com/learning-go-book/context_examples/identity"
-	"github.com/learning-go-book/context_examples/tracker"
+	"github.com/learning-go-book/context_values/identity"
+	"github.com/learning-go-book/context_values/tracker"
 )
 
 func main() {

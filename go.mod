@@ -1,4 +1,4 @@
-module github.com/learning-go-book/context_examples
+module github.com/learning-go-book/context_values
 
 go 1.14
 
